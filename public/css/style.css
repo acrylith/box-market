@@ -1,0 +1,228 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+body {
+  font-family: "Noto Sans", sans-serif;
+  margin: 0;
+  position: relative;
+}
+
+.nav {
+  background-color: palegreen;
+  height: 60px;
+  margin-bottom: 20px;
+}
+.nav__body {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav__link {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+  color: black;
+  transition: all 0.5s;
+}
+.nav__link:hover {
+  color: white;
+}
+.nav h1 {
+  margin: 0;
+  font-size: 32px;
+}
+.nav .container {
+  height: 100%;
+}
+
+.card {
+  border: 2px solid black;
+  border-radius: 14px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 22px;
+}
+.card__image-wrapper img {
+  width: 100%;
+}
+.card__title {
+  text-align: center;
+}
+.card__buttons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 6px;
+}
+.card__button {
+  text-decoration: none;
+  font-size: 18px;
+  padding: 4px 12px;
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+  color: white;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.info__img-wrapper {
+  width: 400px;
+  height: 400px;
+}
+.info__img-wrapper img {
+  width: 100%;
+  height: 100%;
+}
+.info__size {
+  display: flex;
+  gap: 10px;
+}
+.info__size p {
+  flex-grow: 1;
+}
+
+.comments {
+  background-color: palegreen;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 14px;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+
+.comm {
+  border-radius: 12px;
+  padding: 12px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+.comm__heading {
+  display: flex;
+  justify-content: space-between;
+}
+.comm__id {
+  font-weight: bold;
+}
+.comm__date {
+  font-style: italic;
+  color: grey;
+}
+.comm p {
+  margin: 0;
+}
+
+.modal__background {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal__body {
+  background-color: white;
+  border-radius: 14px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+}
+
+.del-confirm {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.out {
+  color: red;
+  font-weight: bold;
+  margin-left: 12px;
+}
+
+.add__wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.add__confirm {
+  display: flex;
+  justify-content: space-evenly;
+}
+.add__confirm button {
+  text-decoration: none;
+  font-size: 18px;
+  padding: 4px 12px;
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+  color: white;
+}
+.add__title {
+  text-align: center;
+}
+.add__body {
+  width: 20%;
+}
+.add__inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.add__input {
+  display: flex;
+  justify-content: space-between;
+}
+
+.confirm-button {
+  text-decoration: none;
+  font-size: 18px;
+  padding: 4px 12px;
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+  color: white;
+  background-color: mediumseagreen;
+}
+.confirm-button:hover {
+  background-color: #2b8051;
+}
+
+.cancel-button {
+  text-decoration: none;
+  font-size: 18px;
+  padding: 4px 12px;
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+  color: white;
+  background-color: tomato;
+}
+.cancel-button:hover {
+  background-color: #a84332;
+}
+
+.more-button {
+  text-decoration: none;
+  font-size: 18px;
+  padding: 4px 12px;
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+  color: white;
+  background-color: slateblue;
+}
+.more-button:hover {
+  background-color: #50449b;
+}

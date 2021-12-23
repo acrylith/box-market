@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 1",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 1,
+          "description": "great product 1",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 1,
+          "description": "nice product 1",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 1,
+          "description": "wonderful product 1",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 2",
+      "count": 0,
+      "size": {
+        "width": 240,
+        "height": 220
+      },
+      "weight": "280g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 2,
+          "description": "great product 2",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 2,
+          "description": "nice product 2",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 2,
+          "description": "wonderful product 2",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 3",
+      "count": 1,
+      "size": {
+        "width": 180,
+        "height": 210
+      },
+      "weight": "210g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 3,
+          "description": "great product 3",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 3,
+          "description": "nice product 3",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 3,
+          "description": "wonderful product 3",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 4",
+      "count": 4,
+      "size": {
+        "width": 320,
+        "height": 200
+      },
+      "weight": "280g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 4,
+          "description": "great product 4",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 4,
+          "description": "nice product 4",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 4,
+          "description": "wonderful product 4",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 5",
+      "count": 4,
+      "size": {
+        "width": 260,
+        "height": 240
+      },
+      "weight": "340g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 5,
+          "description": "great product 5",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 5,
+          "description": "nice product 5",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 5,
+          "description": "wonderful product 5",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 6",
+      "count": 24,
+      "size": {
+        "width": 60,
+        "height": 45
+      },
+      "weight": "120g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 6,
+          "description": "great product 6",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 6,
+          "description": "nice product 6",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 6,
+          "description": "wonderful product 6",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 7",
+      "count": 0,
+      "size": {
+        "width": 140,
+        "height": 100
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 7,
+          "description": "great product 7",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 7,
+          "description": "nice product 7",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 7,
+          "description": "wonderful product 7",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 8",
+      "count": 5,
+      "size": {
+        "width": 200,
+        "height": 100
+      },
+      "weight": "160g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 8,
+          "description": "great product 8",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 8,
+          "description": "nice product 8",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 8,
+          "description": "wonderful product 8",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 9",
+      "count": 7,
+      "size": {
+        "width": 210,
+        "height": 180
+      },
+      "weight": "230g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 9,
+          "description": "great product 9",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 9,
+          "description": "nice product 9",
+          "date": "15:00 22.08.2021"
+        },
+        {
+          "id": 3,
+          "productId": 9,
+          "description": "wonderful product 9",
+          "date": "16:00 22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Product 10",
+      "count": "4",
+      "size": {
+        "width": "44",
+        "height": "44"
+      },
+      "weight": "40g",
+      "comments": ""
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://st4.depositphotos.com/19441220/24419/i/450/depositphotos_244194554-stock-photo-cardboard-box-isolated-white-background.jpg",
+      "name": "Box11",
+      "count": "0",
+      "size": {
+        "width": "44",
+        "height": "55"
+      },
+      "weight": "40g",
+      "comments": ""
+    }
+  ]
+}
